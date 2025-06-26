@@ -30,7 +30,7 @@ This project explores global carbon dioxide (CO₂) emissions trends from **1750
 
 ---
 
-## 📁 Project Files
+## 📁 Project Structure
 
 📂 co2-emissions-analysis/
 ├── data/ # Raw and cleaned datasets
@@ -38,6 +38,9 @@ This project explores global carbon dioxide (CO₂) emissions trends from **1750
 ├── notebooks/
 │ └── CO2_emission.ipynb
 ├── README.md
+
+
+yaml
 
 ---
 
