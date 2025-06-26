@@ -32,13 +32,12 @@ This project explores global carbon dioxide (CO₂) emissions trends from **1750
 
 ## 📁 Project Structure
 
-📂 co2-emissions-analysis/
--├── data/ # Raw and cleaned datasets
--├── visuals/ # Generated plots and charts
--├── notebooks/
--│ └── CO2_emission.ipynb
--├── README.md
-
+```bash
+CO₂ emission-analysis/
+├── data/                   # Source datasets
+├── visuals/                # Charts and preview images
+├── notebooks/              # Main analysis notebook
+├── README.md
 
 ---
 
