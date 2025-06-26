@@ -32,7 +32,6 @@ This project explores global carbon dioxide (CO₂) emissions trends from **1750
 
 ## 📁 Project Structure
 
-```bash
 CO₂ emission-analysis/
 ├── data/                   # Source datasets
 ├── visuals/                # Charts and preview images
